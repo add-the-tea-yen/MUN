@@ -73,7 +73,7 @@
 /* Large Mobile :480px. */
 /* line 6, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_reset.scss */
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Century 725", sans-serif;
   font-weight: normal;
   font-style: normal;
 }
@@ -1076,11 +1076,11 @@ h3 {
   }
 }
 
-/* line 1, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
+/* line 1, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss 
 .slider_bg_1 {
   background-image: url(../img/banner/banner_1.jpg);
 }
-
+*/
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
 .slider_area {
   background-size: cover;
